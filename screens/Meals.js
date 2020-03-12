@@ -39,7 +39,7 @@ const Meals = ({navigation}) => {
 }
 
 Meals.navigationOptions=({
-    title:'Comidas disponibles',
+    title:'¡Comidas disponibles!',
 })
 
 export default Meals
